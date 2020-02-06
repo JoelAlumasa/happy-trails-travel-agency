@@ -1,0 +1,17 @@
+h1 {
+  color: purple;
+  font-size: xx-large;
+}
+h2 {
+  color: lightgreen;
+  font-size: large
+}
+h3 {
+  color: lightgreen;
+  font-size: medium;
+}
+body{
+  font-style: helvetica;
+  text-align: center;
+  background-color: lavender;
+}
